@@ -1,0 +1,6 @@
+.mdui-textfield-expandable.mdui-textfield-expanded {
+    width: calc(100% - 48px) !important;
+}
+.mdui-textfield-expandable.mdui-textfield-expanded .mdui-textfield-input {
+    padding-left: 12px;
+}

@@ -1,0 +1,12 @@
+label.mdui-checkbox {
+    width: 100%;
+}
+label.mdui-checkbox span {
+    transition: .3s;
+    text-decoration: line-through;
+    text-decoration-color: transparent;
+}
+label.mdui-checkbox span.del {
+    color: grey;
+    text-decoration-color: grey;
+}

@@ -1,0 +1,21 @@
+.mdui-drawer {
+    position: absolute !important;
+    -webkit-user-select: none;
+            user-select: none;
+}
+
+@media (min-width: 1024px) {
+    .drawer-close {
+        transform: translateX(-250px);
+    }
+}
+
+@media (min-width: 600px) {
+    .drawer-close {
+        transform: translateX(-330px);
+    }
+}
+
+.drawer-close {
+    transform: translateX(-290px);
+}
